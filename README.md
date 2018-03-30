@@ -1,1 +1,1 @@
-# Simple-Lightbox-Gallery-With-JavaScript
+# Simple Lightbox Gallery With JavaScript
